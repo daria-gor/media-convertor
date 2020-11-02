@@ -1,0 +1,8 @@
+certifi==2020.6.20
+configparser==5.0.1
+ffmpeg==1.4
+minio==6.0.0
+python-dateutil==2.8.1
+pytz==2020.1
+six==1.15.0
+urllib3==1.25.11
