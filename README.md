@@ -1,4 +1,5 @@
-![Docker Compose Actions Workflow](https://github.com/daria-gor/transcoder/workflows/Docker%20Compose%20Actions%20Workflow/badge.svg?branch=master)
+![Docker Compose Actions Workflow](https://github.com/daria-gor/media-convertor/workflows/Docker%20Compose%20Actions%20Workflow/badge.svg?branch=main)
+
 ## Transcoder 
 ### Минимальный каркас простого микросервисного приложения Python + Minio + FFMPEG + Docker
 
